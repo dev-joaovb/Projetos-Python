@@ -14,6 +14,12 @@ Autor do link: https://github.com/andersonrocha0/tpa
 ## Códigos
 - Código CPU_Bound;
 - Código IO_Bound;
+- TestesSincrona-Assincrona;
+- banco_inseguro.py;
+- calculo.py;
+- multi_threaded.py;
+- python_threads.py;
+- single_threaded.py;
 
 # 3 Tradutor Morse
 - Código para traduzir código morse para a linguagem padrão;
