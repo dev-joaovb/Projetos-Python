@@ -8,8 +8,10 @@
 
 # 2 Concorrência e Distribuída
 Para saber mais sobre o conteúdo (além do código) verifique no repositório: Concorrência e Distribuída
-Link para referência (Forked): 
+Link para referência (Forked): https://github.com/dev-joaovb/Concorrencia-Distribuida.git
+Autor do link: https://github.com/andersonrocha0/tpa
 
+## Códigos
 - Código CPU_Bound;
 - Código IO_Bound;
 
