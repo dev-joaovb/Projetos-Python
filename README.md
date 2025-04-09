@@ -25,5 +25,7 @@ Autor do link: https://github.com/andersonrocha0/tpa
 - Código para traduzir código morse para a linguagem padrão;
 - Código para traduzir linguagem padrão para o código morse
 
+# 4 Automação simples de planilhas
+- Código simples que automatiza informações de uma planilha para cadastro em um site
 
 Em breve mais projetos
